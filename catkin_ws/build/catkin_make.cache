@@ -1,0 +1,2 @@
+01helloWorld
+-DCATKIN_DEVEL_PREFIX=/home/ltoschi/Documents/rosTutorialPTBR/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ltoschi/Documents/rosTutorialPTBR/catkin_ws/install -G Unix Makefiles

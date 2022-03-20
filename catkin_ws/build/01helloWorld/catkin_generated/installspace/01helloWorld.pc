@@ -1,0 +1,8 @@
+prefix=/home/ltoschi/Documents/rosTutorialPTBR/catkin_ws/install
+
+Name: 01helloWorld
+Description: Description of 01helloWorld
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
